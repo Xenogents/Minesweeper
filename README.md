@@ -1,0 +1,1 @@
+Demonstration of using a CNN to play self-coded minesweeper.
